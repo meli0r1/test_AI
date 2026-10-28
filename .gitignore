@@ -1,0 +1,4 @@
+.env
+summary.md
+__pycache__/
+*.py[cod]
